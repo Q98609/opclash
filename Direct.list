@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,didiwuxian.com
 DOMAIN-SUFFIX,didiyun.com
 DOMAIN-SUFFIX,didiyun.org
 DOMAIN-SUFFIX,didiyunapi.com
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,juyanwenjuan.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,xiaojuchefu.cn
@@ -168,6 +169,7 @@ DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,f.video.weibocdn.com
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,001wifi.com
 DOMAIN-SUFFIX,1kapp.com
 DOMAIN-SUFFIX,4sender.com
@@ -244,6 +246,8 @@ DOMAIN-SUFFIX,sinasws.com
 DOMAIN-SUFFIX,sinauda.com
 DOMAIN-SUFFIX,sinaurl.cn
 DOMAIN-SUFFIX,smtcdn.com
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,talldns.cn
 DOMAIN-SUFFIX,talldns.com
@@ -387,6 +391,7 @@ DOMAIN-KEYWORD,push.apple.com
 DOMAIN-KEYWORD,readcube
 DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,ssl.apple.com
+DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,trip.com
 DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
 DOMAIN-KEYWORD,vip.ffzy-online

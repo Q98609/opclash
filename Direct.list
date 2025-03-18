@@ -8,9 +8,6 @@
 # PROCESS-NAME: 36
 # TOTAL: 256
 需强制直连域名
-# 修复 Google Play Store 送中节点下载 
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN,www.hifini.com
 DOMAIN-KEYWORD,70games.net
 DOMAIN-KEYWORD,lixianla.com
